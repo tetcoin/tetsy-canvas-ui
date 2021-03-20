@@ -1,5 +1,5 @@
 {
-  "name": "canvas-ui",
+  "name": "tetsy-canvas-ui",
   "repository": "https://github.com/paritytech/canvas-ui",
   "main": "packages/apps-electron/build/electron.js",
   "description": "An Apps portal into the Polkadot network",
