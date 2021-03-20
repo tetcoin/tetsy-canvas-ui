@@ -1,1 +1,1 @@
-# @paritytech/canvas-ui
+# tetsy-canvas-ui
